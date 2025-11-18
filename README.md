@@ -1,6 +1,7 @@
 # Requisitos
 
 -Back-end: instalação do PHP 7+ (Já será feita quando realizar a instalação do Xampp)
+
 -Front-end: npm install
 
 -Instalação do Xampp para o MySQL
