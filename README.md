@@ -14,5 +14,7 @@
 
 # Referências
 -Documentação: https://splitphp.org/ e https://github.com/splitphp/core
+
 -https://www.vueframework.com/docs/v3/br/ e https://primevue.org/ (Biblioteca de componentes estilizados)
+
 -Google Gemini - Tratamento de Erros
